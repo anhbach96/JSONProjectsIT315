@@ -5,7 +5,7 @@
 			"ShopLocation":  "Alexandria, VA 22314",
 			"ShopPhone": "(703) 388-6350",
 			"ShopDelivery": "UberEats, Doordash",
-			"ShopImage": "",
+			"ShopImage": "https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/spillthetea.jpg",
 			"ShopSite": "https://spilltheteahouse.com",
 			"ShopRating": "4.5/5",
 			"ShopDescription": "We are Old Town Alexandria’s finest bubble tea shop serving Asian-inspired bites and innovative drinks in a fast-casual setting. The founders of Spill The Tea believe in bringing a community together through indulging in delicious drinks and fresh food."
@@ -15,7 +15,7 @@
 			"ShopLocation": "Annandale, VA 22003",
 			"ShopPhone": "(703) 333-3117",
 			"ShopDelivery": "UberEats, Doordash",
-			"ShopImage":"",
+			"ShopImage":"https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/gongcha.jpg",
 			"ShopSite": "https://gongchadmv.com/",
 			"ShopRating": "4.5/5",
 			"ShopDescription": "The meaning of Gong Cha in Chinese is to provide the best tea to Emperor from all possessions. Establishing in 2006, Gong Cha had been deeply appreciated by its customers because of good words of mouth and unique customized service originated from Taiwan."
@@ -25,7 +25,7 @@
 			"ShopLocation": "Fairfax, VA 22031",
 			"ShopPhone": "(703) 501-0484", 
 			"ShopDelivery": "UberEats, Doordash",
-			"ShopImage": "",
+			"ShopImage": "https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/kokeetea.jpg",
 			"ShopSite": "https://www.kokeetea.com",
 			"ShopRating": "4.3/5",
 			"ShopDescription": "“TEA” is our identity, energy, passion, and sociability. We believe KOKEE TEA will provide our customers with exuberant energy, positive social atmosphere, and excellent tea experience. We have full of passion to lead market trend and promise our loyalty to KOKEE TEA family"
@@ -35,7 +35,7 @@
 			"ShopLocation": "Springfield, VA 22150",
 			"ShopPhone": "(703) 663-8661",
 			"ShopDelivery": "UberEats",
-			"ShopImage":"",
+			"ShopImage":"https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/kungfutea.jpg",
 			"ShopSite": "https://www.kungfutea.com/",
 			"ShopRating":"4.4/5",
 			"ShopDescription": "Our Kung Fu Masters are committed to developing the ideal beverage for you and providing a 5-star experience from the moment you walk in to satisfy your cravings to the moment you walk out."
@@ -45,7 +45,7 @@
 			"ShopLocation": "Fairfax, VA 22030",
 			"ShopPhone": "(301) 655-0837",
 			"ShopDelivery":"UberEats, Doordash",
-			"ShopImage":"",
+			"ShopImage":"https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/sharetea.jpg",
 			"ShopSite": "https://www.shareteafairfax.com/#/",
 			"ShopRating":"4.3/5",
 			"ShopDescription": "Sharetea is a bubble tea franchise business. It has 500+ stores in 18 countries internationally. 100 stores among them are in North America. Sharetea Fairfax is the first store on the east coast. We sell fruit tea, brewed tea, fresh milk tea, milk tea, creama, and ice blended. Find us on Lee Hwy near Fairfax Villa Park. Order online for carryout!"
@@ -55,7 +55,7 @@
 			"ShopLocation": "Fairfax, VA 22031",
 			"ShopPhone": "(703) 223-5073",
 			"ShopDelivery":"UberEats, Doordash",
-			"ShopImage": "",
+			"ShopImage": "https://raw.githubusercontent.com/anhbach96/JSONProjectsIT315/master/vivi.jpg",
 			"ShopSite": "https://vivibubbletea.com/about.html",
 			"ShopRating": "4.4/5",
 			"ShopDescription": "Starting from 2007, VIVI BUBBLE TEA, with its cutting-edge technology for tea production, launched the Taiwanese bubble tea business in America. Through the constructing of the VIVI BUBBLE TEA trademark and our continuing extensive costumer support, the first store in New York."
